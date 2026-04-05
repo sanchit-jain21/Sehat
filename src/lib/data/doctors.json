@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": 1,
+    "name": "Dr. Priya Sharma",
+    "specialty": "Cardiologist",
+    "experience": 12,
+    "rating": 4.9,
+    "reviews": 142,
+    "avatar": "https://picsum.photos/seed/doc1/100/100",
+    "dataAiHint": "doctor portrait",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohan Mehra",
+    "specialty": "Neurologist",
+    "experience": 15,
+    "rating": 4.8,
+    "reviews": 98,
+    "avatar": "https://picsum.photos/seed/doc2/100/100",
+    "dataAiHint": "doctor professional",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Dr. Anjali Desai",
+    "specialty": "Pediatrician",
+    "experience": 8,
+    "rating": 4.9,
+    "reviews": 210,
+    "avatar": "https://picsum.photos/seed/doc3/100/100",
+    "dataAiHint": "doctor smiling",
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Dr. Vikram Singh",
+    "specialty": "Orthopedic Surgeon",
+    "experience": 18,
+    "rating": 4.9,
+    "reviews": 180,
+    "avatar": "https://picsum.photos/seed/doc4/100/100",
+    "dataAiHint": "male doctor",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sunita Kaur",
+    "specialty": "Dermatologist",
+    "experience": 10,
+    "rating": 4.7,
+    "reviews": 115,
+    "avatar": "https://picsum.photos/seed/doc5/100/100",
+    "dataAiHint": "female doctor professional",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Dr. Rajesh Gupta",
+    "specialty": "General Physician",
+    "experience": 20,
+    "rating": 4.8,
+    "reviews": 250,
+    "avatar": "https://picsum.photos/seed/doc6/100/100",
+    "dataAiHint": "senior doctor",
+    "available": false
+  }
+]
